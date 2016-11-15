@@ -1,2 +1,2 @@
 # test-
-Project testing play field 
+This is where i will be testing scripts and stuff on my github
